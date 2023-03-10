@@ -56,7 +56,7 @@ body {
   position: relative;
 }
 .content-g {
-  width: 100%;
+  width: 1280px/1366px *100%;
   max-width: 1366px;
   margin: 0 auto;
 }
